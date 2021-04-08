@@ -1,3 +1,3 @@
 # Dragon Ball Online Skill Calculator
 
-[Live demo](https://citrinate.github.io/dboSkillCalculator/)
+[Live demo](https://wh30283424.github.io/pg/)
